@@ -24,4 +24,4 @@ kaya akan pustaka.
 
 ### Pemula
 
-**Learn You a Haskell for Great Good! (LYAH)** (http://learnyouahaskell.com) oleh Miran Lipovača.
+[Learn You a Haskell for Great Good! (LYAH)](http://learnyouahaskell.com) oleh Miran Lipovača.
